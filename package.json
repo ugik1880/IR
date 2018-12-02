@@ -1,0 +1,29 @@
+{
+  "name": "ir-final-project",
+  "version": "1.0.0",
+  "description": "chatbot dengan sim simi",
+  "main": "simi_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugik1880/IR-Final-Project.git"
+  },
+  "keywords": [
+    "bot",
+    "simsimi",
+    "information",
+    "retrieval",
+    "telegram"
+  ],
+  "author": "ugik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugik1880/IR-Final-Project/issues"
+  },
+  "homepage": "https://github.com/ugik1880/IR-Final-Project#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
